@@ -1,6 +1,7 @@
 # Luv2shop Ecommerce Website
 
 A modern ecommerce website based on Angular and Spring Boot
+
 Backend Link: https://github.com/Diegochan7D/luv2shop-backend
 
 ## Demonstration
